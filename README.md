@@ -1,1 +1,74 @@
-echo "# Speak Recognize\n\n## Description\nSpeak Recognize is a speech recognition application developed in Python. This repository contains all necessary files and dependencies to run the application.\n\n## Installation\nTo download and set up the project, follow these steps:\n\n### Clone the Repository\n\`\`\`sh\ngit clone https://github.com/fahadhaya72/Speak_recognize.git\n\`\`\`\n\n### Navigate to the Project Directory\n\`\`\`sh\ncd Speak_recognize\n\`\`\`\n\n### Install Dependencies\nEnsure you have Python installed, then install the required dependencies using:\n\`\`\`sh\npip install -r requirements.txt\n\`\`\`\n\n## Environment Variables\nTo configure the application, set up the following environment variables:\n\`\`\`\nSECRET_KEY=your_secret_key\nAPI_KEY=your_api_key\nDB_HOST=your_database_host\nDB_USER=your_database_user\nDB_PASSWORD=your_database_password\n\`\`\`\n\n## Running the Application\nExecute the following command to run the application:\n\`\`\`sh\npython App.py\n\`\`\`\n\n## Contact\nFor any queries, reach out through the following platforms:\n- **Email:** smr69413@gmail.com  \n- **LinkedIn:** [Fahad Hayat](https://www.linkedin.com/in/fahad-hayat-6430962aa/)  \n- **HackerRank:** [cyberfahad72](https://www.hackerrank.com/profile/cyberfahad72)  \n- **Portfolio:** [Portfolio Website](https://chipper-meerkat-82db2b.netlify.app/)  \n\n## License\nAll rights reserved by **fhd_hayat**." > README.md
+Speak Recognize
+
+All Rights Reserved by fhd_hayat
+
+Project Overview
+
+Speak Recognize is a Python-based speech recognition application. This repository contains all necessary files to get started with the project.
+
+Installation
+
+To download and run the project, follow these steps:
+
+Clone the Repository
+
+git clone https://github.com/fahadhaya72/Speak_recognize.git
+cd Speak_recognize
+
+Install Dependencies
+
+Make sure you have Python installed, then run:
+
+pip install -r requirements.txt
+
+Running the Application
+
+python App.py
+
+Environment Variables
+
+Before running the project, set up the following environment variables:
+
+Variable Name
+
+Description
+
+API_KEY
+
+Your API key for the speech recognition service
+
+SECRET_KEY
+
+Your secret key for authentication
+
+DATABASE_URL
+
+URL for your database connection
+
+To set these variables, run:
+
+export API_KEY="your_api_key_here"
+export SECRET_KEY="your_secret_key_here"
+export DATABASE_URL="your_database_url_here"
+
+Or add them to a .env file:
+
+API_KEY=your_api_key_here
+SECRET_KEY=your_secret_key_here
+DATABASE_URL=your_database_url_here
+
+Contact
+
+For any inquiries, reach out via:
+
+Email: smr69413@gmail.com
+
+LinkedIn: Fahad Hayat
+
+HackerRank: cyberfahad72
+
+Portfolio: View Portfolio
+
+License
+
+All Rights Reserved © fhd_hayat
