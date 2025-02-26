@@ -1,74 +1,63 @@
-Speak Recognize
 
-All Rights Reserved by fhd_hayat
+# 🎙️ Speak Recognizer
 
-Project Overview
+🚀 A Powerful Speech Recognition Assistant
 
-Speak Recognize is a Python-based speech recognition application. This repository contains all necessary files to get started with the project.
+Listens, converts speech to text, and responds with voice feedback!
 
-Installation
+# 🔥 Features
 
-To download and run the project, follow these steps:
+✅ Speech-to-Text Conversion using Google Speech Recognition API
 
-Clone the Repository
+✅ Text-to-Speech Response with gTTS (Google Text-to-Speech)
 
+✅ Continuous Listening Mode 🎧
+
+✅ Supports Exit Commands (exit, stop, quit) 🛑
+
+
+# 📥 Installation & Setup
+
+1️⃣ Clone the Repository
+
+```sh
 git clone https://github.com/fahadhaya72/Speak_recognize.git
 cd Speak_recognize
+```
 
-Install Dependencies
+2️⃣ Create a Virtual Environment (Recommended)
 
-Make sure you have Python installed, then run:
+```sh
+python -m venv env
+source env/bin/activate   # On macOS/Linux
+env\Scripts\activate      # On Windows
+```
+3️⃣ Install Dependencies
 
+```sh
 pip install -r requirements.txt
+```
 
-Running the Application
+4️⃣ Run the Application
 
+```sh
 python App.py
+```
 
-Environment Variables
+# 📜 License
 
-Before running the project, set up the following environment variables:
+🛡️ All rights reserved by @fhd_hayat.
 
-Variable Name
+# 📞 Contact Me
 
-Description
+🔗 GitHub: @fahadhaya72
 
-API_KEY
+📧 Email: smr69413@gmail.com
 
-Your API key for the speech recognition service
+💼 LinkedIn: Fahad Hayat (https://www.linkedin.com/in/fahad-hayat-6430962aa/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-SECRET_KEY
+🎯 HackerRank: cyberfahad72 (https://www.hackerrank.com/profile/cyberfahad72)
 
-Your secret key for authentication
+🌐 Portfolio: My Portfolio (https://chipper-meerkat-82db2b.netlify.app/)
 
-DATABASE_URL
 
-URL for your database connection
-
-To set these variables, run:
-
-export API_KEY="your_api_key_here"
-export SECRET_KEY="your_secret_key_here"
-export DATABASE_URL="your_database_url_here"
-
-Or add them to a .env file:
-
-API_KEY=your_api_key_here
-SECRET_KEY=your_secret_key_here
-DATABASE_URL=your_database_url_here
-
-Contact
-
-For any inquiries, reach out via:
-
-Email: smr69413@gmail.com
-
-LinkedIn: Fahad Hayat (https://www.linkedin.com/in/fahad-hayat-6430962aa/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-HackerRank: cyberfahad72 (https://www.hackerrank.com/profile/cyberfahad72)
-
-Portfolio: View Portfolio (https://chipper-meerkat-82db2b.netlify.app/)
-
-License
-
-All Rights Reserved © fhd_hayat
