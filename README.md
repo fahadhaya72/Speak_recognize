@@ -1,40 +1,40 @@
-######🎙️ Speak Recognizer ######
+🎙️ Speak Recognizer
 
-🚀 A powerful speech recognition assistant
+🚀 A Powerful Speech Recognition Assistant
 
 Listens, converts speech to text, and responds with voice feedback!
 
 🔥 Features
 
-✅ Converts speech to text using Google Speech Recognition API
+✅ Speech-to-Text Conversion using Google Speech Recognition API
 
-✅ Uses gTTS (Google Text-to-Speech) for voice response
+✅ Text-to-Speech Response with gTTS (Google Text-to-Speech)
 
-✅ Continuous listening mode 🎧
+✅ Continuous Listening Mode 🎧
 
-✅ Supports exit commands (exit, stop, quit) 🛑
+✅ Supports Exit Commands (exit, stop, quit) 🛑
 
 📥 Installation & Setup
 
 1️⃣ Clone the Repository
-
+``
 git clone https://github.com/fahadhaya72/Speak_recognize.git
 cd Speak_recognize
-
+``
 2️⃣ Create a Virtual Environment (Recommended)
-
+``
 python -m venv env
 source env/bin/activate   # On macOS/Linux
 env\Scripts\activate      # On Windows
-
+``
 3️⃣ Install Dependencies
-
+``
 pip install -r requirements.txt
-
+``
 4️⃣ Run the Application
-
+``
 python App.py
-
+``
 🌍 Environment Variables
 
 Ensure you set the required environment variables before running the app:
@@ -72,7 +72,15 @@ export TIMEOUT=5
 
 💡 Have questions or suggestions? Reach out to me!
 
-🔗 GitHub: @fahadhaya72📧 Email: smr69413@gmail.com💼 LinkedIn: Fahad Hayat🎯 HackerRank: cyberfahad72🌐 Portfolio: My Portfolio
+🔗 GitHub: @fahadhaya72
+
+📧 Email: smr69413@gmail.com
+
+💼 LinkedIn: Fahad Hayat
+
+🎯 HackerRank: cyberfahad72
+
+🌐 Portfolio: My Portfolio
 
 🔥 Let's innovate together! 🚀
 
