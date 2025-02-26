@@ -63,11 +63,11 @@ For any inquiries, reach out via:
 
 Email: smr69413@gmail.com
 
-LinkedIn: Fahad Hayat
+LinkedIn: Fahad Hayat (https://www.linkedin.com/in/fahad-hayat-6430962aa/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-HackerRank: cyberfahad72
+HackerRank: cyberfahad72 (https://www.hackerrank.com/profile/cyberfahad72)
 
-Portfolio: View Portfolio
+Portfolio: View Portfolio (https://chipper-meerkat-82db2b.netlify.app/)
 
 License
 
