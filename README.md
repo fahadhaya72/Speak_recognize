@@ -25,12 +25,10 @@ git clone https://github.com/fahadhaya72/Speak_recognize.git
 cd Speak_recognize
 ```
 
-2️⃣ Create a Virtual Environment (Recommended)
+2️⃣  Install Additional Dependencies (if needed)
 
 ```sh
-python -m venv env
-source env/bin/activate   # On macOS/Linux
-env\Scripts\activate      # On Windows
+pip install SpeechRecognition gtts playsound PyAudio
 ```
 3️⃣ Install Dependencies
 
