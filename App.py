@@ -2,7 +2,7 @@ import speech_recognition as sr
 from gtts import gTTS
 import playsound
 import os
-
+# i got it 
 def speak(text):
     """Convert text to speech and play it."""
     tts = gTTS(text=text, lang='en')
