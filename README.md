@@ -1,5 +1,5 @@
 
-# 🎙️ Speak Recognizer
+# 🎙️ Speak Recognizer 
 
 🚀 A Powerful Speech Recognition Assistant
 
